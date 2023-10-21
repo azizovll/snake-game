@@ -146,7 +146,7 @@ function move() {
 
 
 
-let interval = setInterval(move, 120)
+let interval = setInterval(move, 250)
 
 
 
